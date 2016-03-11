@@ -15,7 +15,7 @@ var warningModal = new simpleModal({
   	modal.hide();
   },
   ok: function(modal) {
-  	console.log('continue with the report...');
+  	
   }
 });
 ```
